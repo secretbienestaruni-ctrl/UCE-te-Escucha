@@ -1,0 +1,225 @@
+@model Plataforma_Virtual.Models.AdminDashboardViewModel
+
+@{
+    ViewData["Title"] = "Panel de Administración";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+
+        <div>
+            <h2>UCE te Escucha</h2>
+            <p class="text-muted mb-0">
+                Panel de Administración
+            </p>
+        </div>
+
+        <a asp-controller="Cuenta"
+           asp-action="Logout"
+           class="btn btn-danger">
+            Cerrar sesión
+        </a>
+
+    </div>
+
+    <div class="row mb-4">
+
+        <div class="col-md-3 mb-3">
+            <div class="card text-center shadow border-0">
+                <div class="card-body">
+                    <h6>Total</h6>
+                    <h2>@Model.Total</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <div class="card text-center shadow border-0">
+                <div class="card-body">
+                    <h6>Pendientes</h6>
+                    <h2 class="text-warning">
+                        @Model.Pendientes
+                    </h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <div class="card text-center shadow border-0">
+                <div class="card-body">
+                    <h6>En revisión</h6>
+                    <h2 class="text-primary">
+                        @Model.EnRevision
+                    </h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <div class="card text-center shadow border-0">
+                <div class="card-body">
+                    <h6>Atendidos</h6>
+                    <h2 class="text-success">
+                        @Model.Atendidos
+                    </h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <form asp-action="Index" method="get" class="mb-4">
+
+        <div class="input-group">
+
+            <input
+                class="form-control"
+                type="text"
+                name="buscar"
+                value="@Context.Request.Query["buscar"]"
+                placeholder="Buscar por código, nombre o mensaje..." />
+
+            <button class="btn btn-primary">
+
+                Buscar
+
+            </button>
+
+        </div>
+
+    </form>
+
+    <div class="card shadow">
+
+        <div class="card-header bg-primary text-white">
+
+            Mensajes recibidos
+
+        </div>
+
+        <div class="card-body">
+
+            @if (!Model.Mensajes.Any())
+            {
+                <div class="alert alert-info">
+
+                    No existen mensajes registrados.
+
+                </div>
+            }
+            else
+            {
+
+                <table class="table table-hover align-middle">
+
+                    <thead class="table-light">
+
+                        <tr>
+
+                            <th>Código</th>
+
+                            <th>Fecha</th>
+
+                            <th>Nombre</th>
+
+                            <th>Estado</th>
+
+                            <th>Archivo</th>
+
+                            <th></th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                    @foreach (var item in Model.Mensajes)
+                    {
+
+                        <tr>
+
+                            <td>@item.Codigo</td>
+
+                            <td>@item.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+
+                            <td>
+
+                                @(item.Anonimo ? "ANÓNIMO" : item.Nombre)
+
+                            </td>
+
+                            <td>
+
+                                @if (item.Estado == "Pendiente")
+                                {
+                                    <span class="badge bg-warning text-dark">
+                                        Pendiente
+                                    </span>
+                                }
+                                else if (item.Estado == "En revisión")
+                                {
+                                    <span class="badge bg-primary">
+                                        En revisión
+                                    </span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-success">
+                                        Atendido
+                                    </span>
+                                }
+
+                            </td>
+
+                            <td>
+
+                                @if (!string.IsNullOrEmpty(item.RutaArchivo))
+                                {
+                                    <a href="@item.RutaArchivo"
+                                       target="_blank"
+                                       class="btn btn-success btn-sm">
+
+                                        Ver archivo
+
+                                    </a>
+                                }
+                                else
+                                {
+                                    <span class="text-muted">
+
+                                        Sin archivo
+
+                                    </span>
+                                }
+
+                            </td>
+
+                            <td>
+
+                                <a asp-action="Detalle"
+                                   asp-route-id="@item.Id"
+                                   class="btn btn-primary btn-sm">
+
+                                    Ver detalle
+
+                                </a>
+
+                            </td>
+
+                        </tr>
+
+                    }
+
+                    </tbody>
+
+                </table>
+
+            }
+
+        </div>
+
+    </div>
+
+</div>

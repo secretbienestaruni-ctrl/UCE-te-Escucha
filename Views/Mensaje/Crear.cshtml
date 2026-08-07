@@ -1,0 +1,111 @@
+@model Plataforma_Virtual.Models.Mensaje
+
+@{
+    ViewData["Title"] = "UCE te Escucha";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg">
+
+        <div class="card-body p-5">
+
+            <h2 class="text-center mb-4">
+                UCE te Escucha
+            </h2>
+
+            <p class="text-center text-muted">
+                Comparte tus quejas, opiniones o sugerencias.
+            </p>
+
+            @if (TempData["Exito"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["Exito"]
+                </div>
+            }
+
+            <form asp-action="Crear"
+                  method="post"
+                  enctype="multipart/form-data">
+
+                @Html.AntiForgeryToken()
+
+                <div class="mb-3">
+
+                    <label class="form-label">
+                        Nombre (Opcional)
+                    </label>
+
+                    <input asp-for="Nombre"
+                           class="form-control" />
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label class="form-label">
+                        Correo (Opcional)
+                    </label>
+
+                    <input asp-for="Correo"
+                           class="form-control" />
+
+                </div>
+
+                <div class="form-check mb-4">
+
+                    <input asp-for="Anonimo"
+                           class="form-check-input" />
+
+                    <label class="form-check-label">
+                        Deseo enviar este mensaje de forma anónima
+                    </label>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label class="form-label">
+                        Mensaje
+                    </label>
+
+                    <textarea asp-for="Contenido"
+                              rows="8"
+                              class="form-control"></textarea>
+
+                    <span asp-validation-for="Contenido"
+                          class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-4">
+
+                    <label class="form-label">
+                        Imagen o documento (Opcional)
+                    </label>
+
+                    <input asp-for="Archivo"
+                           class="form-control" />
+
+                </div>
+
+                <button class="btn btn-danger w-100">
+
+                    Enviar mensaje
+
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts{
+
+    <partial name="_ValidationScriptsPartial"/>
+
+}

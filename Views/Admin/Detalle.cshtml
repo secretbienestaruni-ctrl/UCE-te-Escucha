@@ -1,0 +1,190 @@
+@model Plataforma_Virtual.Models.Mensaje
+
+@{
+    ViewData["Title"] = "Detalle del mensaje";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between mb-4">
+
+        <h2>Detalle del mensaje</h2>
+
+        <a asp-action="Index" class="btn btn-secondary">
+            ← Volver
+        </a>
+
+    </div>
+
+    <div class="card shadow">
+
+        <div class="card-header bg-primary text-white">
+
+            @Model.Codigo
+
+        </div>
+
+        <div class="card-body">
+
+            <div class="row mb-3">
+
+                <div class="col-md-6">
+
+                    <strong>Fecha</strong><br />
+
+                    @Model.Fecha.ToString("dd/MM/yyyy HH:mm")
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <strong>Estado</strong><br />
+
+                    @switch(Model.Estado)
+                    {
+                        case "Pendiente":
+                            <span class="badge bg-warning text-dark">@Model.Estado</span>
+                            break;
+
+                        case "En revisión":
+                            <span class="badge bg-primary">@Model.Estado</span>
+                            break;
+
+                        case "Atendido":
+                            <span class="badge bg-success">@Model.Estado</span>
+                            break;
+
+                        default:
+                            <span class="badge bg-secondary">@Model.Estado</span>
+                            break;
+                    }
+
+                </div>
+
+            </div>
+
+            <hr />
+
+            <div class="mb-3">
+
+                <strong>Nombre</strong><br />
+
+                @(Model.Anonimo ? "ANÓNIMO" : Model.Nombre)
+
+            </div>
+
+            <div class="mb-3">
+
+                <strong>Correo</strong><br />
+
+                @(Model.Anonimo ? "OCULTO" : Model.Correo)
+
+            </div>
+
+            <div class="mb-4">
+
+                <strong>Mensaje</strong>
+
+                <div class="border rounded p-3 mt-2 bg-light">
+
+                    @Model.Contenido
+
+                </div>
+
+            </div>
+
+            @if (!string.IsNullOrEmpty(Model.RutaArchivo))
+            {
+
+                <div class="mb-4">
+
+                    <strong>Archivo adjunto</strong>
+
+                    <br /><br />
+
+                    <a href="@Model.RutaArchivo"
+                       target="_blank"
+                       class="btn btn-success">
+
+                        Abrir archivo
+
+                    </a>
+
+                </div>
+
+            }
+
+            <hr />
+
+            <h5>Cambiar estado</h5>
+
+            <form asp-action="CambiarEstado" method="post">
+
+                <input type="hidden"
+                       name="id"
+                       value="@Model.Id" />
+
+                <div class="row">
+
+                    <div class="col-md-5">
+
+                        <select
+                            name="estado"
+                            class="form-select">
+
+                            <option value="Pendiente"
+                                selected="@(Model.Estado=="Pendiente")">
+                                Pendiente
+                            </option>
+
+                            <option value="En revisión"
+                                selected="@(Model.Estado=="En revisión")">
+                                En revisión
+                            </option>
+
+                            <option value="Atendido"
+                                selected="@(Model.Estado=="Atendido")">
+                                Atendido
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="col-md-3">
+
+                        <button class="btn btn-primary w-100">
+
+                            Guardar
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </form>
+
+            <hr />
+
+            <form asp-action="Eliminar"
+                  method="post"
+                  onsubmit="return confirm('¿Eliminar este mensaje?');">
+
+                <input type="hidden"
+                       name="id"
+                       value="@Model.Id" />
+
+                <button class="btn btn-danger">
+
+                    Eliminar mensaje
+
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>

@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "UCE te Escucha";
+}
+
+<div class="container mt-5">
+
+    <div class="text-center">
+
+         <img src="~/img/Logo UCE.jpeg"
+             alt="Logo UCE"
+             width="220"
+             class="mb-4" />
+           
+                        
+        <h1 class="display-4 fw-bold text-danger">
+            UCE te Escucha
+        </h1>
+
+        <p class="lead">
+            Tu voz nos ayuda a construir una mejor FIEECS.
+        </p>
+
+        <p>
+            Comparte libremente tus opiniones, comentarios,
+            sugerencias o cualquier situación que consideres
+            importante. Si lo deseas, puedes adjuntar imágenes
+            o documentos como evidencia.
+        </p>
+
+        <a asp-controller="Mensaje"
+           asp-action="Crear"
+           class="btn btn-danger btn-lg mt-3">
+
+            Enviar mi mensaje
+
+        </a>
+
+    </div>
+
+</div>

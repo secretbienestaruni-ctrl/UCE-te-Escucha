@@ -1,0 +1,126 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: #f5f5f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ==========================
+   COLORES INSTITUCIONALES UCE
+========================== */
+
+:root{
+    --uce-rojo:#A6192E;
+    --uce-rojo-hover:#8C1628;
+    --uce-gris:#f8f9fa;
+}
+
+/* Navbar */
+
+.navbar{
+    background-color: var(--uce-rojo)!important;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+.navbar-brand{
+    color:white!important;
+    font-weight:bold;
+    font-size:24px;
+}
+
+.nav-link{
+    color:white!important;
+    font-weight:500;
+}
+
+.nav-link:hover{
+    color:#ffd7d7!important;
+}
+
+/* Botones */
+
+.btn-primary{
+    background-color:var(--uce-rojo)!important;
+    border-color:var(--uce-rojo)!important;
+}
+
+.btn-primary:hover{
+    background-color:var(--uce-rojo-hover)!important;
+    border-color:var(--uce-rojo-hover)!important;
+}
+
+.btn-outline-primary{
+    color:var(--uce-rojo)!important;
+    border-color:var(--uce-rojo)!important;
+}
+
+.btn-outline-primary:hover{
+    background-color:var(--uce-rojo)!important;
+    color:white!important;
+}
+
+/* Cards */
+
+.card{
+    border:none;
+    border-radius:12px;
+}
+
+.card-header{
+    background-color:var(--uce-rojo)!important;
+    color:white!important;
+    font-weight:bold;
+}
+
+/* Texto */
+
+.text-primary{
+    color:var(--uce-rojo)!important;
+}
+
+/* Fondos */
+
+.bg-primary{
+    background-color:var(--uce-rojo)!important;
+}
+
+/* Tablas */
+
+.table thead{
+    background-color:var(--uce-rojo);
+    color:white;
+}
+
+/* Inputs */
+
+.form-control:focus{
+    border-color:var(--uce-rojo);
+    box-shadow:0 0 0 .2rem rgba(166,25,46,.20);
+}
+
+/* Badges */
+
+.badge.bg-primary{
+    background-color:var(--uce-rojo)!important;
+}
+
+/* Footer */
+
+footer{
+    background:white;
+    text-align:center;
+}

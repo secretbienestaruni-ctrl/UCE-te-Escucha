@@ -1,0 +1,231 @@
+C:\Plataforma Virtual\bin\Debug\net9.0\appsettings.Development.json
+C:\Plataforma Virtual\bin\Debug\net9.0\appsettings.json
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.staticwebassets.runtime.json
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.staticwebassets.endpoints.json
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.exe
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.deps.json
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.runtimeconfig.json
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Plataforma Virtual.pdb
+C:\Plataforma Virtual\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.AssemblyInfoInputs.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.AssemblyInfo.cs
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.csproj.CoreCompileInputs.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.MvcApplicationPartsAssemblyInfo.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.RazorAssemblyInfo.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.RazorAssemblyInfo.cs
+C:\Plataforma Virtual\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Plataforma Virtual\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Plataforma Virtual\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Plataforma Virtual\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Plataforma Virtual\obj\Debug\net9.0\scopedcss\bundle\Plataforma Virtual.styles.css
+C:\Plataforma Virtual\obj\Debug\net9.0\scopedcss\projectbundle\Plataforma Virtual.bundle.scp.css
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\3lrqchhwnp-61n19gt1b8.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\6ao2utwqod-xtxxf3hu2r.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bkuspw7t3n-bqjiyaj88i.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\hwha6j2wya-c2jlpeoesf.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\g2x9dgtqmr-erw9l3u2r3.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\e413q5cr2x-aexeepp0ev.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\slrcbd6ux9-d7shbmvgxk.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\5hnqjwd29n-ausgxo2sd3.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\1eoop5h039-k8d9w2qqmf.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\4jv9t2n1t8-cosvhxvwiu.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\i05c0aqr93-ub07r2b239.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\j0mttdj6gu-fvhpjtyr6v.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\nfnjlvtw10-b7pk76d08c.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bjada0c51c-fsbi9cje9m.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\1w8mgqgafj-rzd6atqjts.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\ldmzazw235-ee0r1s7dh0.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\iwe1841ksr-dxx9fxp4il.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\mqst0icke3-jd9uben2k1.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\nlkeca2i6h-khv3u5hwcm.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\01lyu7iu85-r4e9w2rdcm.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\war9excdr7-lcd1t2u6c8.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\fn8h8pqqzh-c2oey78nd0.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\l1ngba8ui8-tdbxkamptv.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\vvl74mecmy-j5mq2jizvt.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\vt0sxjehm5-06098lyss8.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\serkdx767y-nvvlpmu67g.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\r9jpy7yl3r-s35ty4nyc5.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\xkqswgliz3-pj5nd1wqec.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\tceeswpbhp-46ein0sx1k.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\fzfi333fhh-v0zj4ognzu.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\1lpywcbv3z-37tfw0ft22.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\ip5bjn9aa3-hrwsygsryq.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\ric0elm3je-pk9g2wxc8p.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\itestzncxv-ft3s53vfgj.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\kmaljcoohz-6cfz1n2cew.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\qx1e8iaocs-6pdc2jztkx.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\ufqtzo6wfn-493y06b0oq.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\69587lpdvi-iovd86k7lj.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\ib8mx1wluq-vr1egmr9el.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\4kx7uxrzya-kbrnm935zg.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\xaxw4aeyaq-jj8uyg4cgr.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\oi8cuxpsaw-y7v9cxd14o.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\e4plc2v60j-notf2xhcfb.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\0knhtoxmrm-h1s4sie4z3.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\czc4ovmpg5-63fj8s7r0e.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\yyaizby7ho-0j3bgjxly4.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\aa35tak21g-47otxtyo56.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\nnluqnosdu-4v8eqarkd7.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\cr6bvj1a6a-356vix0kms.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\mav59z9yes-83jwlth58m.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\149aygnfri-mrlpezrjn3.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\hqu4ark0xn-lzl9nlhx6b.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\k2wnmxyopb-ag7o75518u.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\j9njva0azi-x0q3zqp4vz.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\s149x01iwj-0i3buxo5is.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bfto0ilmln-o1o13a6vjx.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bkak5kh2fq-ttgo8qnofa.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\u1if093aao-2z0ns9nrw6.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\c0a8zdiue6-muycvpuwrr.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\nhggou4hlf-87fc7y1x7t.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\q36ieo2wsn-mlv21k5csn.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\zm7yhxdc1c-98wfml9kip.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\xf065zv1hc-98wfml9kip.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\staticwebassets.build.json
+C:\Plataforma Virtual\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\staticwebassets.development.json
+C:\Plataforma Virtual\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.dll
+C:\Plataforma Virtual\obj\Debug\net9.0\refint\Plataforma Virtual.dll
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.pdb
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.genruntimeconfig.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\ref\Plataforma Virtual.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Azure.Core.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Azure.Identity.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Humanizer.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.ClientModel.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.CodeDom.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.csproj.AssemblyReference.cache
+C:\Plataforma Virtual\obj\Debug\net9.0\Platafor.0C8D29B1.Up2Date
+C:\Plataforma Virtual\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\MailKit.dll
+C:\Plataforma Virtual\bin\Debug\net9.0\MimeKit.dll
+C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bcuhha9ndn-vo5uywbb5h.gz

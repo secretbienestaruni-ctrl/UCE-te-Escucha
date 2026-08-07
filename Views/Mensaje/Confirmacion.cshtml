@@ -1,0 +1,60 @@
+@{
+    ViewData["Title"] = "Mensaje enviado";
+}
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-8">
+
+            <div class="card shadow-lg border-0">
+
+                <div class="card-body text-center p-5">
+
+                    <h1 class="text-success mb-4">
+                        ✅ ¡Mensaje enviado correctamente!
+                    </h1>
+
+                    <p class="lead">
+                        Gracias por utilizar <strong>UCE te Escucha</strong>.
+                    </p>
+
+                    <p>
+                        Tu mensaje ha sido registrado exitosamente y será revisado por el equipo correspondiente.
+                    </p>
+
+                    <hr />
+
+                    <h4 class="mt-4">
+                        Código de seguimiento
+                    </h4>
+
+                    <h2 class="text-primary fw-bold">
+                        @ViewBag.Codigo
+                    </h2>
+
+                    <p class="text-muted mt-3">
+                        Guarda este código, ya que te permitirá identificar tu mensaje en caso de futuras consultas.
+                    </p>
+
+                    <a asp-controller="Home"
+                       asp-action="Index"
+                       class="btn btn-primary btn-lg mt-4">
+                        Volver al inicio
+                    </a>
+
+                    <a asp-action="Crear"
+                       class="btn btn-outline-secondary btn-lg mt-4 ms-2">
+                        Enviar otro mensaje
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

@@ -1,0 +1,73 @@
+@{
+    ViewData["Title"] = "Inicio de Sesión";
+}
+
+<div class="container mt-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-4">
+
+            <div class="card shadow">
+
+                <div class="card-header bg-primary text-white text-center">
+
+                    <h3>UCE te Escucha</h3>
+
+                    <small>Panel Administrativo</small>
+
+                </div>
+
+                <div class="card-body">
+
+                    @if (ViewBag.Error != null)
+                    {
+                        <div class="alert alert-danger">
+                            @ViewBag.Error
+                        </div>
+                    }
+
+                    <form method="post">
+
+                        <div class="mb-3">
+
+                            <label>Usuario</label>
+
+                            <input
+                                type="text"
+                                name="usuario"
+                                class="form-control"
+                                required />
+
+                        </div>
+
+                        <div class="mb-3">
+
+                            <label>Contraseña</label>
+
+                            <input
+                                type="password"
+                                name="password"
+                                class="form-control"
+                                required />
+
+                        </div>
+
+                        <button
+                            class="btn btn-primary w-100">
+
+                            Ingresar
+
+                        </button>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
