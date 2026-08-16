@@ -229,3 +229,5 @@ C:\Plataforma Virtual\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
 C:\Plataforma Virtual\bin\Debug\net9.0\MailKit.dll
 C:\Plataforma Virtual\bin\Debug\net9.0\MimeKit.dll
 C:\Plataforma Virtual\obj\Debug\net9.0\compressed\bcuhha9ndn-vo5uywbb5h.gz
+C:\Plataforma Virtual\obj\Debug\net9.0\Plataforma Virtual.sourcelink.json
+C:\Plataforma Virtual\bin\Debug\net9.0\appsettings.Production.json
